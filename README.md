@@ -1,5 +1,5 @@
-# thomasjtaylor.github.io
-## 2/2/2015
+# thomasjtaylor.com
+## 9/21/2018
 Playground for personal web applications.
 
-See me at <http://thomasjtaylor.github.io/README.md>
+See me at <https://github.com/thomasjtaylor>
