@@ -3,3 +3,5 @@ title: "Thomas J. Taylor"
 description: Bioinformatics and Biomedical Data Analytics Tools
 github:
   repository_url: https://github.com/thomasjtaylor
+plugins:
+  - jekyll-twitter-plugin
