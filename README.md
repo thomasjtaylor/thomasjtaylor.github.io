@@ -1,4 +1,7 @@
 
 Playground for personal web applications.
 
-See me at <https://github.com/thomasjtaylor>
+
+
+
+{% twitter https://twitter.com/tjtaylorx maxwidth=500 limit=5 %}
