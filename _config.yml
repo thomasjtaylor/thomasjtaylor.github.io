@@ -3,6 +3,7 @@ title: Thomas J. Taylor
 description: Bioinformatics and Biomedical Data Analytics Tools
 github:
   repository_url: https://github.com/thomasjtaylor
+url: https://orcid.org/0000-0002-1367-3015
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
